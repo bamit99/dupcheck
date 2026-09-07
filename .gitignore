@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scratch / report output
+duplicates_report.txt
+scratch/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Conda
+.conda/
+
+# IDE and editor directories
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
