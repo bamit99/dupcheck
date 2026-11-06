@@ -1,7 +1,6 @@
 # Dupcheck — Duplicate Image Finder
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A desktop GUI for finding and managing duplicate images using
@@ -54,7 +53,7 @@ Supported formats: `JPEG/JPG`, `PNG`, `BMP`, `TIFF/TIF`, `WEBP`, `GIF`, `MPO`,
 conda create -n dupcheck python=3.11
 conda activate dupcheck
 
-git clone https://github.com/<your-user>/dupcheck.git
+git clone https://github.com/bamit99/dupcheck.git
 cd dupcheck
 pip install -r requirements.txt
 ```
@@ -99,4 +98,4 @@ just forces a fresh scan on the next run.
 
 ## License
 
-[MIT](LICENSE) © 2026 [Amit Bhatnagar](https://github.com/amitb)
+[MIT](LICENSE) © 2026 [Amit Bhatnagar](https://github.com/bamit99)
